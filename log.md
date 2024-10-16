@@ -1,15 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 0: Wednesday October 16, 2024
+### Day 1: Wednesday October 16, 2024
 
-**Today's Progress**: I have been working on the FreeCodeCamp core curriculum for about a month now. Today I focused on learning intermediate CSS by doing a cat painting.
+**Today's Progress**: I have been working on the FreeCodeCamp core curriculum for about a month now. Today I focused on learning intermediate CSS by doing a cat painting. I also worked on responsive web design.
 
 **Thoughts:** Está canijo CSS, pero poco a poco me voy sintiendo más cómodo al trabajar.
 
-**Link to work:** [Learn Intermediate CSS by Building a Cat Painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-intermediate-css-by-building-a-cat-painting)
+**Link to work:** 
+1. [Learn Intermediate CSS by Building a Cat Painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-intermediate-css-by-building-a-cat-painting)
+2. [Learn Responsive Web Design by Building a Piano](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-responsive-web-design-by-building-a-piano)
 
 
-### Day 1: Thursday October 17, 2024
+
+### Day 2: Thursday October 17, 2024
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
