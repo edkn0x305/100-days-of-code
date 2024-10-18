@@ -14,10 +14,22 @@
 
 ### Day 2: Thursday October 17, 2024
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Hoy hice un proyecto de certificación del freeCodeCamp y el ejercicio del City Skyline sobre variables de CSS.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** A veces siento que voy muy lento, pues html y css no son lenguajes de programación, pero creo que vale la pena empezar por aquí.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Build a Technical Documentation Page Project](https://www.freecodecamp.org/learn/2022/responsive-web-design/#build-a-technical-documentation-page-project)
+2. [Learn CSS Variables by building a City Skyline](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-variables-by-building-a-city-skyline)
+
+
+### Day3: Friday October 18, 2024
+
+**Today's Progress**: Empecé y terminé un proyecto para aprender sobre CSS Grid en el que establecí el layout de una revista. También hice otro proyecto de certificación.
+
+**Thoughts** Es bien gratificante ver cómo se modifica el resultado final en el previsualizador en tiempo real. HTML/CSS ciertamente es una forma de arte digital.
+
+**Link(s) to work**
+1. [Learn CSS Grid by Building a Magazine](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-grid-by-building-a-magazine)
+2. [Build a Product Landing Page Project](https://www.freecodecamp.org/learn/2022/responsive-web-design/#build-a-product-landing-page-project)
+
